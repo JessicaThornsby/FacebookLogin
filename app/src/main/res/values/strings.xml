@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FacebookLogin</string>
+    <string name="facebook_app_id">YOUR-APP-ID-HERE</string>
+</resources>
